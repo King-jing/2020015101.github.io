@@ -8,7 +8,7 @@
       <p><b>地址：浙江省宁波市万里学院，邮编315000</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">     
+      <img src="/11.jpg" width="100%">     
     </td>
   </tr>
 </table>
